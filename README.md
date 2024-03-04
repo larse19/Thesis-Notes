@@ -16,6 +16,7 @@ Participants
 ----
 
 # March 03
+Anders, Thiago, Eun-Young
 ## During
 - Goal is an algorithm that translate
 	- Receives a text file that should follow to DSL
