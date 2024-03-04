@@ -1,17 +1,19 @@
 # Thesis-Notes
 
 ## Structure of meeting notes:
-Date of meeting
-
+# Date of meeting
 Participants
 
- - Before
-   - Questions or notes made by Anders to prepare for the meeting
- - During
-   - Notes written during the meeting
-   - Should contain a section of what to do before next meeting
- - After
-   - Any potential subsequent notes/reflections on the meeting
+## Before
+- Questions or notes made by Anders to prepare for the meeting
+## During
+- Notes written during the meeting
+### Goal for next meeting
+ - What needs to be completed before next bi-weekly meeting
+## After
+- Any potential subsequent notes/reflections on the meeting
+
+----
 
 # March 03
 ## During
