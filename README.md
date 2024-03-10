@@ -15,7 +15,7 @@ Participants
 
 ----
 
-# March 03
+# March 04
 Anders, Thiago, Eun-Young
 ## During
 - Goal is an algorithm that translate
